@@ -296,7 +296,6 @@ const CertificationsSection = () => {
           gutterBottom
           sx={{
             mb: 6,
-            color: '#fff',
             fontWeight: 'bold',
             background: 'linear-gradient(45deg,rgb(249, 144, 223), #cc3322)',
             backgroundClip: 'text',

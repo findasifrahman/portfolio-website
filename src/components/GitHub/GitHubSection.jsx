@@ -1,6 +1,6 @@
 import React from 'react';
-import { Box, Grid, Card, CardContent, Typography, Link, Chip, IconButton } from '@mui/material';
-import { GitHub, Star, CallSplit } from '@mui/icons-material';
+import { Box, Grid, Card, CardContent, Typography, Link, Chip } from '@mui/material';
+import { Star, CallSplit } from '@mui/icons-material';
 import { motion } from 'framer-motion';
 
 const RepoCard = ({ repo }) => {

@@ -6,7 +6,6 @@ import {
   Grid,
   Button,
   IconButton,
-  Paper,
   useTheme,
   useMediaQuery
 } from '@mui/material';

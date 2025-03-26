@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, AppBar, Toolbar, Container, IconButton, Typography } from '@mui/material';
+import { Box, AppBar, Toolbar, IconButton, Typography } from '@mui/material';
 import { Menu as MenuIcon } from '@mui/icons-material';
 import ThemeToggle from './ThemeToggle';
 

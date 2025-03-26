@@ -18,7 +18,6 @@ import {
   Email as EmailIcon,
   LocationOn as LocationIcon
 } from '@mui/icons-material';
-import { motion } from 'framer-motion';
 import ScrollReveal from '../shared/ScrollReveal';
 
 const ContactSection = () => {
@@ -92,7 +91,6 @@ const ContactSection = () => {
             sx={{
               textAlign: 'center',
               mb: 6,
-              color: '#fff',
               fontWeight: 'bold',
               background: 'linear-gradient(45deg,rgb(249, 144, 223), #cc3322)',
               backgroundClip: 'text',

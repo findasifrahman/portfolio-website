@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Box, Container, Grid, Card, CardContent, CardMedia, Typography, Chip, IconButton, Link, CircularProgress, Alert, Button } from '@mui/material';
-import { GitHub, Launch, Code } from '@mui/icons-material';
+import { Launch } from '@mui/icons-material';
 import { motion } from 'framer-motion';
 import { useData } from '../../context/DataContext';
 
