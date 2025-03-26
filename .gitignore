@@ -1,0 +1,5 @@
+.env
+pvenv/
+node_modules/
+linked_debug.html
+package-lock.json

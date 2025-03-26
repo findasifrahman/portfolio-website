@@ -1,0 +1,450 @@
+{
+  "certifications": [
+    {
+      "title": "Advanced Digital Hardware Design",
+      "issuer": "FEDEVEL",
+      "issue_date": "Issued Mar 2025",
+      "credential_id": "137c359d97006c1517385e706",
+      "credential_url": "https://certificate.fedevel.education/137c359d97006c1517385e706.pdf",
+      "skills": [
+        "Printed Circuit Board (PCB) Design",
+        "Advanced Digital Hardware Design",
+        "Field-Programmable Gate Arrays (FPGA)",
+        "zynq",
+        "Xilinx Vivado",
+        "petalinux",
+        "Advanced PCB Design"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/fedevel_logo"
+    },
+    {
+      "title": "Advanced SQL",
+      "issuer": "Kaggle",
+      "issue_date": "Issued Jun 2024",
+      "credential_id": "",
+      "credential_url": "https://www.kaggle.com/learn/certification/asif10018/advanced-sql",
+      "skills": [
+        "SQL"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/1631352159490"
+    },
+    {
+      "title": "App Dev Environment on Google Cloud Skill Badge",
+      "issuer": "Google",
+      "issue_date": "Issued Jun 2024",
+      "credential_id": "",
+      "credential_url": "https://www.credly.com/badges/b44d3fc7-9b58-4f30-ba60-b5ce1f61c403/linked_in_profile",
+      "skills": [
+        "Google Cloud Platform (GCP)",
+        "Google Cloud Run",
+        "Cloud Computing"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/1631311446380"
+    },
+    {
+      "title": "Build a Secure Google Cloud Network Skill Badge",
+      "issuer": "Google",
+      "issue_date": "Issued Jun 2024",
+      "credential_id": "",
+      "credential_url": "https://www.credly.com/badges/4f8224fd-d512-427c-af8f-52a09d0aa81f/linked_in_profile",
+      "skills": [
+        "Google Cloud Platform (GCP)"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/1631311446380"
+    },
+    {
+      "title": "Build natural language processing solution with Azure AI",
+      "issuer": "Microsoft",
+      "issue_date": "Issued Jun 2024",
+      "credential_id": "6972088DE986C25C",
+      "credential_url": "https://learn.microsoft.com/api/credentials/share/en-us/AsifRahman-9721/6972088DE986C25C?sharingId",
+      "skills": [],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/microsoft_logo"
+    },
+    {
+      "title": "Classify Images with TensorFlow on Google Cloud",
+      "issuer": "Google",
+      "issue_date": "Issued Jun 2024",
+      "credential_id": "",
+      "credential_url": "https://www.credly.com/badges/e08875f2-b7a9-4cd0-8938-bbabbfbd28cc/linked_in_profile",
+      "skills": [
+        "Machine Learning",
+        "Vertex AI"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/1631311446380"
+    },
+    {
+      "title": "Google Cloud Computing with Machine learning Certificate",
+      "issuer": "Google",
+      "issue_date": "Issued Jun 2024",
+      "credential_id": "",
+      "credential_url": "https://www.credly.com/badges/5b2dbf49-c0c2-42d9-a91c-4c2e26dab971/linked_in_profile",
+      "skills": [
+        "Google Cloud Platform (GCP)",
+        "Google Cloud Run",
+        "Cloud Computing",
+        "Application Programming Interfaces (API)"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/1631311446380"
+    },
+    {
+      "title": "Implement Load Balancing on Compute Engine Skill Badge",
+      "issuer": "Google",
+      "issue_date": "Issued Jun 2024",
+      "credential_id": "",
+      "credential_url": "https://www.credly.com/badges/8eec787b-9768-4719-9861-145f2a07532d/linked_in_profile",
+      "skills": [
+        "Google Cloud Platform (GCP)",
+        "Load Balancing"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/1631311446380"
+    },
+    {
+      "title": "Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge",
+      "issuer": "Google",
+      "issue_date": "Issued Jun 2024",
+      "credential_id": "",
+      "credential_url": "https://www.credly.com/badges/d9a42852-1043-4ebe-9f20-feb0ef41dc79/linked_in_profile",
+      "skills": [
+        "RAG, Langchain",
+        "Google Gemini",
+        "Vertex AI"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/1631311446380"
+    },
+    {
+      "title": "Prepare Data for ML APIs on Google Cloud Skill Badge",
+      "issuer": "Google",
+      "issue_date": "Issued Jun 2024",
+      "credential_id": "",
+      "credential_url": "https://www.credly.com/badges/8d4d883c-483a-4a85-950f-37ce6620dee1/linked_in_profile",
+      "skills": [
+        "Machine Learning",
+        "Gemini",
+        "Google Gemini",
+        "Application Programming Interfaces (API)"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/1631311446380"
+    },
+    {
+      "title": "Analyze Sentiment with Natural Language API Skill Badge",
+      "issuer": "Google",
+      "issue_date": "Issued May 2024",
+      "credential_id": "",
+      "credential_url": "https://www.credly.com/badges/2e3e405f-4f08-4a2e-ba90-a4d647229fee/linked_in_profile",
+      "skills": [
+        "Generative AI"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/1631311446380"
+    },
+    {
+      "title": "Develop GenAI Apps with Gemini and Streamlit Skill Badge",
+      "issuer": "Google",
+      "issue_date": "Issued May 2024",
+      "credential_id": "",
+      "credential_url": "https://www.credly.com/badges/60607608-049d-4cd3-a88b-35534fa1409e/linked_in_profile",
+      "skills": [
+        "Application Development",
+        "Generative AI",
+        "Python (Programming Language)",
+        "STREAMLIT",
+        "Vertex AI"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/1631311446380"
+    },
+    {
+      "title": "Gemini for Application Developers",
+      "issuer": "Google",
+      "issue_date": "Issued May 2024",
+      "credential_id": "9090874",
+      "credential_url": "https://www.cloudskillsboost.google/public_profiles/fc54666a-5437-4e59-9621-6f520a5ca614/badges/9090874?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+      "skills": [
+        "nodejs",
+        "Google Cloud Run",
+        "Generative AI Tools",
+        "Flask",
+        "Python (Programming Language)"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/1631311446380"
+    },
+    {
+      "title": "Gemini for Cloud Architects",
+      "issuer": "Google",
+      "issue_date": "Issued May 2024",
+      "credential_id": "9091882",
+      "credential_url": "https://www.cloudskillsboost.google/public_profiles/fc54666a-5437-4e59-9621-6f520a5ca614/badges/9091882?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+      "skills": [
+        "Google Cloud Run"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/1631311446380"
+    },
+    {
+      "title": "Gemini for Data Scientists and Analysts",
+      "issuer": "Google",
+      "issue_date": "Issued May 2024",
+      "credential_id": "9145203",
+      "credential_url": "https://www.cloudskillsboost.google/public_profiles/fc54666a-5437-4e59-9621-6f520a5ca614/badges/9145203?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+      "skills": [],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/1631311446380"
+    },
+    {
+      "title": "Intermediate Machine Learning",
+      "issuer": "Kaggle",
+      "issue_date": "Issued May 2024",
+      "credential_id": "",
+      "credential_url": "https://www.kaggle.com/learn/certification/asif10018/intermediate-machine-learning",
+      "skills": [
+        "Machine Learning",
+        "Python (Programming Language)",
+        "Data Science"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/1631352159490"
+    },
+    {
+      "title": "Python (Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes)",
+      "issuer": "HackerRank",
+      "issue_date": "Issued May 2024",
+      "credential_id": "",
+      "credential_url": "https://www.hackerrank.com/certificates/cb34b9ef4ff2",
+      "skills": [
+        "Python (Programming Language)"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/hackerrank_logo"
+    },
+    {
+      "title": "Tactical Messaging System Work completion certificate",
+      "issuer": "Bangladesh coast guard",
+      "issue_date": "Issued Dec 2023",
+      "credential_id": "44.08.2680.005.17.001.23.154",
+      "credential_url": "https://www.linkedin.com/in/asifrahman10018/details/certifications/1710081915239/single-media-viewer?type=IMAGE&profileId=ACoAAB6eMAMBE5aHfHbmB3UlObJsBeRC28YI9M0",
+      "skills": [
+        "Radio Frequency (RF)",
+        "Project Management",
+        "Electronics",
+        "Node.js"
+      ],
+      "issuer_logo": ""
+    },
+    {
+      "title": "Event scheduling software for NAVAL training",
+      "issuer": "Bangladesh Navy",
+      "issue_date": "Issued Jun 2019",
+      "credential_id": "",
+      "credential_url": "https://www.linkedin.com/in/asifrahman10018/details/certifications/1710097680903/single-media-viewer?type=IMAGE&profileId=ACoAAB6eMAMBE5aHfHbmB3UlObJsBeRC28YI9M0",
+      "skills": [
+        "nodejs",
+        "React Native",
+        "Angular",
+        "postgres"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/1631334099538"
+    },
+    {
+      "title": "Certificate of Completion for knowledge bay software and hardware alongside Training for Bangladesh navy",
+      "issuer": "Bangladesh Navy",
+      "issue_date": "Issued Dec 2018",
+      "credential_id": "",
+      "credential_url": "https://www.linkedin.com/in/asifrahman10018/details/certifications/1710097333257/single-media-viewer?type=IMAGE&profileId=ACoAAB6eMAMBE5aHfHbmB3UlObJsBeRC28YI9M0",
+      "skills": [
+        "C#",
+        "Project Management",
+        ".NET Framework"
+      ],
+      "issuer_logo": "./Licenses & certifications _ Md. Asifur Rahman _ LinkedIn_files/1631334099538"
+    }
+  ],
+  "projects": [
+    {
+      "title": "CrewAI scrap multiagent system",
+      "details": "CrewAI is a multi-agent system that uses web scraping to extract data from a website. It is a web scraping agent that uses crewai framework to scrape data from a website. It is a web scraping agent that uses crewai framework to scrape data from a website. It is a web scraping agent that uses crewai framework to scrape data from a website.",
+      "time": "Jun 2024 - Present",
+      "company": "Intricate Lab ",
+      "skills": "Multi-agent Systems · Machine Learning · Artificial Intelligence (AI) · Web Scraping · RAG, Langchain",
+      "project_link": "https://github.com/findasifrahman/crewai"
+    },
+    {
+      "title": "langchain-RAG-firestore chat application",
+      "details": "This application uses RAG and langchain to make a real time conversation on some electronics ic datasheet. The chat history is saved in firbase firestore",
+      "time": "May 2024 - Present",
+      "company": "Intricate Lab ",
+      "skills": "LangChain · RAG, Langchain · Large Language Models (LLM) · Artificial Intelligence (AI) · Firebase · Cloud Firestore · Word Embeddings",
+      "project_link": "https://github.com/findasifrahman/langchain"
+    },
+    {
+      "title": "llm-scraper with Langchain, llama-index, openai",
+      "details": "This is a demonestration how you can implement a web scraping agent using firecrawl and OPENAI.I also used langchain to monitor agents performence and provide score based on score You can scrape any site with this code One of the problem of agent scrapping is you have to provide large context to llm and most models cant handle that sort of context GPT-3.5-turbo cannot handle most of the request as its token per minute limit is very small. You need to have Open AI tier-2 access to handle the request efficiently. Declare Website Name and entity name that you want to scrap in the code and run the code.You will also need Firecrawl, Langsmith and OPENAI API key.GPT-4o performs very well with this agent.You can choos between GPT-4o, GPT-4-turbo or GPT-3.5. GPT-3.5 is less expensive but it does not provide effective output with internet search scraping",
+      "time": "Feb 2024 - Present",
+      "company": "Intricate Lab ",
+      "skills": "Large Language Models (LLM) · RAG, Langchain · Web Scraping · Python (Programming Language) · Agent-based Modeling · LangChain · Artificial Intelligence (AI) · Machine Learning",
+      "project_link": "https://github.com/findasifrahman/llm-scraper"
+    },
+    {
+      "title": "Event scheduling software for NAVAL training",
+      "details": "event scheduling software for naval training is a software that allows the user to schedule events for the naval training. The event & course scheduling calendar is a single web portal from where and through which user can upload events and event related details in a secure way and later view the events and courses in google calendar like manner ",
+      "time": "Oct 2019 - Dec 2019",
+      "company": "Intricate Lab ",
+      "skills": "Nodejs, Angular, Postgres, Firebase,Java, Android Studio",
+      "project_link": "https://www.linkedin.com/in/asifrahman10018/details/projects/669786423/multiple-media-viewer?profileId=ACoAAB6eMAMBE5aHfHbmB3UlObJsBeRC28YI9M0&treasuryMediaId=1710083361061&type=IMAGE"
+    },
+    {
+      "title": "Kiosk Interactive Learning Aid",
+      "details": "Knowledge Bay: An interactive learning and quiz tool Developed for Bangladesh Navy. Administrator can upload quiz question and learning tools and user can participate in Quiz tests by scanning ID card and get a certificate from built in printer upon completion of test.",
+      "time": "Jan 2019 - Present",
+      "company": "Intricate Lab ",
+      "skills": "C#, SQl, Browser Application · Angular · Node.js ·  MongoDB",
+      "project_link": "https://www.facebook.com/watch/?v=2027117707303865"
+    },
+    {
+      "title": "SAAS ERP for food Supply Industry ",
+      "details": "SAAS ERP for food Supply Industry with python and angular and azure function",
+      "time": "Jun 2024 - Jul 2024",
+      "company": "Intricate Lab ",
+      "skills": "Python  · Angular · Microsoft Azure · Azure Functions · Flask · SQL ",
+      "project_link": "https://github.com/findasifrahman/tiny-erp-backend"
+    }
+  ],
+  "skills": [
+    "Advanced Digital Hardware Design",
+    "Field-Programmable Gate Arrays (FPGA)",
+    "zynq",
+    "Xilinx Vivado",
+    "petalinux",
+    "Advanced PCB Design",
+    "Microsoft Azure",
+    "SAAS ERP for food Supply Industry with python and angular and azure function",
+    "Azure Functions",
+    "Continuous Integration and Continuous Delivery (CI/CD)",
+    "Multi-agent Systems",
+    "CrewAI scrap agent",
+    "Firebase",
+    "Software Engineer at Intricate Lab",
+    "langchain-RAG-firestore chat application",
+    "Cloud Firestore",
+    "Word Embeddings",
+    "Artificial Intelligence (AI)",
+    "llm-scraper",
+    "LangChain",
+    "Large Language Models (LLM)",
+    "Web Scraping",
+    "Agent-based Modeling",
+    "Gemini",
+    "Google Gemini",
+    "Load Balancing",
+    "Mobile Applications",
+    "Web Application Development",
+    "Application Programming Interfaces (API)",
+    "Google Cloud Computing with Machine learning Certificate",
+    "Cloud Computing",
+    "Full-Stack Development",
+    "Semantic Search",
+    "Data Science",
+    "Intermediate Machine Learning",
+    "Machine Learning",
+    "Scikit-Learn",
+    "Random Forest",
+    "Application Development",
+    "STREAMLIT",
+    "Google Cloud Platform (GCP)",
+    "Amazon S3",
+    "docker",
+    "SQL",
+    "Advanced SQL",
+    "Flask",
+    "Gemini for Application Developers",
+    "Python (Programming Language)",
+    "ESP32 Microcontrollers",
+    "Node-RED",
+    "C++",
+    "Embedded Systems",
+    "nodejs",
+    "Event scheduling software for NAVAL training",
+    "postgres",
+    ".NET Framework",
+    "Objective-C",
+    "autosol GPS Tracking solution",
+    "Generative AI",
+    "Google Cloud Run",
+    "Gemini for Cloud Architects",
+    "Generative AI Tools"
+  ],
+  "profile": {
+    "name": "Md. Asifur Rahman",
+    "headline": "Software Engineer & Embedded System Designer"
+  },
+  "categorized_skills": {
+    "Hardware Design": [
+      "Advanced Digital Hardware Design",
+      "Field-Programmable Gate Arrays (FPGA)",
+      "zynq",
+      "Xilinx Vivado",
+      "petalinux",
+      "Advanced PCB Design",
+      "ESP32 Microcontrollers",
+      "Embedded Systems"
+    ],
+    "Cloud & DevOps": [
+      "Microsoft Azure",
+      "Azure Functions",
+      "Firebase",
+      "Cloud Firestore",
+      "Cloud Computing",
+      "Google Cloud Platform (GCP)",
+      "Amazon S3",
+      "docker",
+      "Google Cloud Run"
+    ],
+    "AI & Machine Learning": [
+      "Multi-agent Systems",
+      "Word Embeddings",
+      "Artificial Intelligence (AI)",
+      "LangChain",
+      "Large Language Models (LLM)",
+      "Agent-based Modeling",
+      "Machine Learning",
+      "Generative AI",
+      "Generative AI Tools"
+    ],
+    "Programming Languages": [
+      "SQL",
+      "Python (Programming Language)",
+      "C++",
+      "nodejs",
+      ".NET Framework",
+      "Objective-C"
+    ],
+    "Web & Mobile Development": [
+      "Mobile Applications",
+      "Web Application Development",
+      "Full-Stack Development",
+      "STREAMLIT",
+      "Flask"
+    ]
+  },
+  "other_skills": [
+    "SAAS ERP for food Supply Industry with python and angular and azure function",
+    "Continuous Integration and Continuous Delivery (CI/CD)",
+    "CrewAI scrap agent",
+    "Software Engineer at Intricate Lab",
+    "langchain-RAG-firestore chat application",
+    "llm-scraper",
+    "Web Scraping",
+    "Gemini",
+    "Google Gemini",
+    "Load Balancing",
+    "Application Programming Interfaces (API)",
+    "Google Cloud Computing with Machine learning Certificate",
+    "Semantic Search",
+    "Data Science",
+    "Intermediate Machine Learning",
+    "Scikit-Learn",
+    "Random Forest",
+    "Application Development",
+    "Advanced SQL",
+    "Gemini for Application Developers",
+    "Node-RED",
+    "Event scheduling software for NAVAL training",
+    "postgres",
+    "autosol GPS Tracking solution",
+    "Gemini for Cloud Architects"
+  ]
+}

@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+youtube-dl
+linkedin-api
+PyPDF2
+PyGithub
+selenium
+webdriver_manager 

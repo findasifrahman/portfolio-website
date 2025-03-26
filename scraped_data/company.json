@@ -1,0 +1,165 @@
+{
+    "title": "Intricate Lab - Innovative Technology Solutions",
+    "description": "Intricate Lab provides cutting-edge technology solutions to drive innovation and efficiency.",
+    "products": [],
+    "images": [
+        "assets/img/about.jpg",
+        "assets/img/clients/client-3.png",
+        "assets/img/clients/client-4.png",
+        "assets/img/clients/client-1.jpg",
+        "assets/img/clients/client-2.jpg",
+        "assets/img/clients/client-3.png",
+        "assets/img/clients/client-4.png",
+        "assets/img/clients/client-1.jpg",
+        "assets/img/clients/client-2.jpg",
+        "assets/img/clients/client-3.png",
+        "assets/img/clients/client-4.png",
+        "assets/img/clients/client-1.jpg",
+        "assets/img/clients/client-2.jpg",
+        "assets/img/clients/client-3.png",
+        "assets/img/clients/client-4.png",
+        "assets/img/clients/client-1.jpg",
+        "assets/img/clients/client-2.jpg",
+        "assets/img/products/autosol/portfolio-1.jpg",
+        "assets/img/products/task_schedular/Portfolio-1.png",
+        "assets/img/portfolio/portfolio-4.jpg",
+        "assets/img/products/grammenphone/1.png",
+        "assets/img/products/bijoy-50/1.png",
+        "assets/img/products/iot/1.png",
+        "assets/img/products/number_plate/Portfolio-1.png",
+        "assets/img/products/attendance_soft/1.png",
+        "assets/img/products/erp/1.png"
+    ],
+    "saved_images": [
+        {
+            "original_url": "http://intricatlab.com//assets/img/about.jpg",
+            "local_path": "scraped_data/images/company/image_0.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/clients/client-3.png",
+            "local_path": "scraped_data/images/company/image_1.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/clients/client-4.png",
+            "local_path": "scraped_data/images/company/image_2.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/clients/client-1.jpg",
+            "local_path": "scraped_data/images/company/image_3.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/clients/client-2.jpg",
+            "local_path": "scraped_data/images/company/image_4.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/clients/client-3.png",
+            "local_path": "scraped_data/images/company/image_5.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/clients/client-4.png",
+            "local_path": "scraped_data/images/company/image_6.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/clients/client-1.jpg",
+            "local_path": "scraped_data/images/company/image_7.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/clients/client-2.jpg",
+            "local_path": "scraped_data/images/company/image_8.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/clients/client-3.png",
+            "local_path": "scraped_data/images/company/image_9.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/clients/client-4.png",
+            "local_path": "scraped_data/images/company/image_10.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/clients/client-1.jpg",
+            "local_path": "scraped_data/images/company/image_11.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/clients/client-2.jpg",
+            "local_path": "scraped_data/images/company/image_12.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/clients/client-3.png",
+            "local_path": "scraped_data/images/company/image_13.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/clients/client-4.png",
+            "local_path": "scraped_data/images/company/image_14.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/clients/client-1.jpg",
+            "local_path": "scraped_data/images/company/image_15.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/clients/client-2.jpg",
+            "local_path": "scraped_data/images/company/image_16.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/products/autosol/portfolio-1.jpg",
+            "local_path": "scraped_data/images/company/image_17.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/products/task_schedular/Portfolio-1.png",
+            "local_path": "scraped_data/images/company/image_18.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/portfolio/portfolio-4.jpg",
+            "local_path": "scraped_data/images/company/image_19.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/products/grammenphone/1.png",
+            "local_path": "scraped_data/images/company/image_20.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/products/bijoy-50/1.png",
+            "local_path": "scraped_data/images/company/image_21.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/products/iot/1.png",
+            "local_path": "scraped_data/images/company/image_22.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/products/number_plate/Portfolio-1.png",
+            "local_path": "scraped_data/images/company/image_23.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/products/attendance_soft/1.png",
+            "local_path": "scraped_data/images/company/image_24.jpg",
+            "alt_text": "About Intricate Lab"
+        },
+        {
+            "original_url": "http://intricatlab.com//assets/img/products/erp/1.png",
+            "local_path": "scraped_data/images/company/image_25.jpg",
+            "alt_text": "About Intricate Lab"
+        }
+    ]
+}

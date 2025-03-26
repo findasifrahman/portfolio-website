@@ -1,0 +1,50 @@
+[
+    {
+        "title": "CrewAI scrap agent                   ",
+        "details": "CrewAI is a multi-agent system that uses machine learning and artificial intelligence to scrape the web. It uses Langchain to monitor agents performence and provide score based on score. You can scrape any site with this code. One of the problem of agent scrapping is you have to provide large context to llm and most models cant handle that sort of context GPT-3.5-turbo cannot handle most of the request as its token per minute limit is very small. You need to have Open AI tier-2 access to handle the request efficiently. Declare Website Name and entity name that you want to scrap in the code and run the code.You will also need Firecrawl, Langsmith and OPENAI API key.GPT-4o performs very well with this agent.You can choos between GPT-4o, GPT-4-turbo or GPT-3.5. GPT-3.5 is less expensive but it does not provide effective output with internet search scraping",
+        "time": "Jun 2024 - Present",
+        "company": "Intricate Lab ",
+        "skills": "Multi-agent Systems · Machine Learning · Artificial Intelligence (AI) · Web Scraping · RAG, Langchain",
+        "project_link": "https://github.com/findasifrahman/crewai"
+    },
+    {
+        "title": "langchain-RAG-firestore chat application",
+        "details":"This application uses RAG and langchain to make a real time conversation on some electronics ic datasheet. The chat history is saved in firbase firestore",
+        "time": "May 2024 - Present",
+        "company": "Intricate Lab ",
+        "skills": "LangChain · RAG, Langchain · Large Language Models (LLM) · Artificial Intelligence (AI) · Firebase · Cloud Firestore · Word Embeddings",
+        "project_link": "https://github.com/findasifrahman/langchain"
+    },
+    {
+        "title": "llm-scraper                         ",
+        "details": "A web scraping agent using firecrawl and OPENAI.Langchain to monitor agents performence and provide score based on score ",
+        "time": "Feb 2024 - Present",
+        "company": "Intricate Lab ",
+        "skills": "Large Language Models (LLM) · RAG, Langchain · Web Scraping · Python (Programming Language) · Agent-based Modeling · LangChain · Artificial Intelligence (AI) · Machine Learning",
+        "project_link": "https://github.com/findasifrahman/llm-scraper"
+    },
+    {
+        "title": "UHF radio with Tactical Messaging System",
+        "details": "TMS (Tactical Messaging System) is a radio communication device capable to pass peer to peer short message and provide real time location of each conneced node using UHF band frequency. The device includes radio communication ic and uses single board computer for user interface. The device is developed to run in completely offline marine enviroment. The hardware design, amplifier, microcontroller and software user interface all are Developed solely by me. Bangladesh Coast guard allready using the device succefully for over a year in marine envirement",
+        "time": "Oct 2020 - Present",
+        "company": "",
+        "skills": "Keil uVision · Printed Circuit Board (PCB) Design · Wireless Mesh · Raspberry Pi · Radio Frequency (RF) · Angular · STM32 · Node.js · Electronics · Project Management · CMake · C (Programming Language) · Global Positioning System (GPS)",
+        "project_link": "https://www.linkedin.com/in/asifrahman10018/details/projects/669786423/multiple-media-viewer?profileId=ACoAAB6eMAMBE5aHfHbmB3UlObJsBeRC28YI9M0&treasuryMediaId=1710083361061&type=IMAGE"
+    },
+    {
+        "title": "autosol GPS vehicle remote Tracking",
+        "details": "AutoSol is an application to track and control vehicles remotly. autosol can connect with concox devices and provide loaction on map, notification for over speed, driver behaviour in both android and ios mobile.autosol also provides a web application where user can view reports of fuel consumption and milage. autosol can also be used to control the device engine. autosol is hosted is amazon ex2 instance. Integration with hardware along side mobile and web app is fully developed by me. autosol app is available in play store for free",
+        "time": "Jan 2019 - Present",
+        "company": "",
+        "skills": "Android · Amazon EC2 · Objective-C · Angular · Node.js · RabbitMQ · React Native",
+        "project_link": "https://www.intricatlab.com/"
+    },
+    {
+        "title": "SAAS ERP  with python,angular,azure function",
+        "details": "SAAS ERP for food Supply Industry with python and angular and azure function",
+        "time": "Jun 2024 - Jul 2024",
+        "company": "Intricate Lab ",
+        "skills": "Python (Programming Language) · Angular · Microsoft Azure · Azure Functions · Flask · SQL · postgres · Continuous Integration and Continuous Delivery (CI/CD) · Web Application Development",
+        "project_link": "https://github.com/findasifrahman/tiny-erp-backend"
+    }
+]

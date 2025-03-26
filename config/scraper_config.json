@@ -1,0 +1,18 @@
+{
+    "linkedin": {
+        "username": "$LINKEDIN_USERNAME",
+        "password": "$LINKEDIN_PASSWORD"
+    },
+    "github": {
+        "access_token": "$GITHUB_ACCESS_TOKEN"
+    },
+    "urls": {
+        "company": "http://intricatlab.com/",
+        "youtube": "https://www.youtube.com/@intricatelab3034",
+        "linkedin": "https://www.linkedin.com/in/asifrahman10018/",
+        "github": "findasifrahman",
+        "cv": "https://findasifrahman.github.io/assets/Asif_CV.pdf",
+        "company_info": "https://www.signalhire.com/companies/intricate-lab",
+        "autosol_app": "https://appadvice.com/app/autosol-gps-tracker/1554911327"
+    }
+} 

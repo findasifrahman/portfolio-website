@@ -1,0 +1,424 @@
+{
+    "name": "Asif Rahman",
+    "bio": "Passionate Software Developer | Innovator | 10+ years experience\r\nI am a Software developer with a rich background in both software and hardware development",
+    "location": "Bangladesh",
+    "repositories": [
+        {
+            "name": "AI_Resume_CV_processing",
+            "description": "The script processes pdf/word cv file uploaded in a zip file. the api key can be used from openrouter. processes upto 70 resume. the confidence score, ranking university can be provided from the web interface. Just run the python script to enable",
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/AI_Resume_CV_processing",
+            "languages": {
+                "Python": 10834,
+                "HTML": 2917
+            }
+        },
+        {
+            "name": "ang7matWebApiEx",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/ang7matWebApiEx",
+            "languages": {
+                "TypeScript": 56737,
+                "HTML": 39438,
+                "C#": 29950,
+                "CSS": 5527,
+                "JavaScript": 1717
+            }
+        },
+        {
+            "name": "angularElectron",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/angularElectron",
+            "languages": {
+                "JavaScript": 438992,
+                "TypeScript": 418666,
+                "HTML": 166412,
+                "CSS": 132161,
+                "SCSS": 66072,
+                "Shell": 271
+            }
+        },
+        {
+            "name": "autosol",
+            "description": null,
+            "stars": 1,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/autosol",
+            "languages": {}
+        },
+        {
+            "name": "bangla-video-embedding",
+            "description": "automatically load transform and generate embedding bangla, banglish videos",
+            "stars": 1,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/bangla-video-embedding",
+            "languages": {
+                "Python": 6237
+            }
+        },
+        {
+            "name": "cleanvsdirty",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/cleanvsdirty",
+            "languages": {}
+        },
+        {
+            "name": "crewai",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/crewai",
+            "languages": {
+                "Python": 4534
+            }
+        },
+        {
+            "name": "dnoarchieve",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/dnoarchieve",
+            "languages": {}
+        },
+        {
+            "name": "dntcalender-web",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/dntcalender-web",
+            "languages": {
+                "TypeScript": 213762,
+                "HTML": 114436,
+                "SCSS": 40660,
+                "CSS": 3523,
+                "JavaScript": 2433
+            }
+        },
+        {
+            "name": "essentialAppBD",
+            "description": "Build with Ionic 4 and angular framework . This is a contact list of essential numbers and a way to keep the basic ledger",
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/essentialAppBD",
+            "languages": {
+                "TypeScript": 64225,
+                "HTML": 12862,
+                "CSS": 8366,
+                "JavaScript": 1734
+            }
+        },
+        {
+            "name": "eTenderingNSD",
+            "description": "asp .net MVC c# .net e bidding system ",
+            "stars": 0,
+            "forks": 1,
+            "url": "https://github.com/findasifrahman/eTenderingNSD",
+            "languages": {
+                "HTML": 520037,
+                "C#": 209856,
+                "CSS": 17305,
+                "JavaScript": 10918,
+                "ASP": 100
+            }
+        },
+        {
+            "name": "findasifrahman",
+            "description": "Config files for my GitHub profile.",
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/findasifrahman",
+            "languages": {}
+        },
+        {
+            "name": "findasifrahman.github.io",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/findasifrahman.github.io",
+            "languages": {
+                "HTML": 4317
+            }
+        },
+        {
+            "name": "fullCalenderIOCore",
+            "description": "asp .net MVC project for task calender for user",
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/fullCalenderIOCore",
+            "languages": {
+                "JavaScript": 768137,
+                "C#": 89319,
+                "HTML": 75519,
+                "CSS": 42918,
+                "PowerShell": 1289,
+                "Dockerfile": 855
+            }
+        },
+        {
+            "name": "globlink-vpn",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/globlink-vpn",
+            "languages": {}
+        },
+        {
+            "name": "gradient_descent",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/gradient_descent",
+            "languages": {
+                "Python": 15197
+            }
+        },
+        {
+            "name": "intricatelabwebsite",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/intricatelabwebsite",
+            "languages": {
+                "JavaScript": 898
+            }
+        },
+        {
+            "name": "iotTimerReact",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/iotTimerReact",
+            "languages": {
+                "JavaScript": 75894,
+                "Objective-C": 4166,
+                "Java": 3084,
+                "Ruby": 2773,
+                "Python": 1912
+            }
+        },
+        {
+            "name": "knowledgebay",
+            "description": "An Interactive tool for Quiz and study for professional skill develpement ",
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/knowledgebay",
+            "languages": {
+                "JavaScript": 2701744,
+                "CSS": 564837,
+                "HTML": 562734,
+                "C#": 221814,
+                "GLSL": 1654,
+                "Shell": 403,
+                "ASP": 100
+            }
+        },
+        {
+            "name": "langchain",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/langchain",
+            "languages": {
+                "Python": 42169
+            }
+        },
+        {
+            "name": "llm-scraper",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/llm-scraper",
+            "languages": {
+                "Python": 59551
+            }
+        },
+        {
+            "name": "malishaeduaccountingbackend",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/malishaeduaccountingbackend",
+            "languages": {
+                "JavaScript": 92373
+            }
+        },
+        {
+            "name": "malishaeduaccountingfrontend",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/malishaeduaccountingfrontend",
+            "languages": {
+                "TypeScript": 391113,
+                "HTML": 175134,
+                "CSS": 35871,
+                "JavaScript": 1785
+            }
+        },
+        {
+            "name": "meWebsite",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/meWebsite",
+            "languages": {
+                "TypeScript": 24839,
+                "HTML": 15928,
+                "CSS": 3261,
+                "JavaScript": 1774
+            }
+        },
+        {
+            "name": "MQTTArduinoESP8266",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/MQTTArduinoESP8266",
+            "languages": {
+                "C++": 40603
+            }
+        },
+        {
+            "name": "mt76--",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/mt76--",
+            "languages": {}
+        },
+        {
+            "name": "oAuthNodeMicroservice",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/oAuthNodeMicroservice",
+            "languages": {
+                "JavaScript": 1090
+            }
+        },
+        {
+            "name": "pcb_kicad_rf_scom_bk48_v3",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/pcb_kicad_rf_scom_bk48_v3",
+            "languages": {}
+        },
+        {
+            "name": "python_r_crypto",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/python_r_crypto",
+            "languages": {}
+        },
+        {
+            "name": "reduxReactTest",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/reduxReactTest",
+            "languages": {
+                "JavaScript": 13054,
+                "Objective-C": 4169,
+                "Ruby": 2779,
+                "Java": 2621,
+                "Python": 1914
+            }
+        },
+        {
+            "name": "reinforment-learning",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/reinforment-learning",
+            "languages": {
+                "Python": 2391
+            }
+        },
+        {
+            "name": "roll_of_events",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/roll_of_events",
+            "languages": {
+                "TypeScript": 322121,
+                "CSS": 204656,
+                "HTML": 202480,
+                "SCSS": 83070,
+                "JavaScript": 12319
+            }
+        },
+        {
+            "name": "roll_of_events_backend",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/roll_of_events_backend",
+            "languages": {}
+        },
+        {
+            "name": "tiny-erp-backend",
+            "description": null,
+            "stars": 1,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/tiny-erp-backend",
+            "languages": {
+                "Python": 146505
+            }
+        },
+        {
+            "name": "tiny-erp-frontend",
+            "description": null,
+            "stars": 1,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/tiny-erp-frontend",
+            "languages": {
+                "TypeScript": 422246,
+                "HTML": 212469,
+                "SCSS": 62604
+            }
+        },
+        {
+            "name": "udayangroupMEAN",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/udayangroupMEAN",
+            "languages": {
+                "TypeScript": 84827,
+                "HTML": 44959,
+                "CSS": 11541,
+                "JavaScript": 1783
+            }
+        },
+        {
+            "name": "UdayanGroupNodejs",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "url": "https://github.com/findasifrahman/UdayanGroupNodejs",
+            "languages": {
+                "JavaScript": 22810
+            }
+        },
+        {
+            "name": "zynq_soc_board_v1",
+            "description": null,
+            "stars": 0,
+            "forks": 1,
+            "url": "https://github.com/findasifrahman/zynq_soc_board_v1",
+            "languages": {
+                "HTML": 8599
+            }
+        }
+    ]
+}
