@@ -1,49 +1,25 @@
-import React, { createContext, useContext, useState, useMemo } from 'react';
-import { ThemeProvider as MuiThemeProvider, createTheme } from '@mui/material';
+import React, { createContext, useContext, useState } from 'react';
 
 const ThemeContext = createContext();
 
-export const useTheme = () => useContext(ThemeContext);
-
 export const ThemeProvider = ({ children }) => {
-  const [mode, setMode] = useState('light');
-
-  const theme = useMemo(
-    () =>
-      createTheme({
-        palette: {
-          mode,
-          primary: {
-            main: mode === 'light' ? '#1a73e8' : '#90caf9',
-          },
-          secondary: {
-            main: mode === 'light' ? '#202124' : '#f5f5f5',
-          },
-          background: {
-            default: mode === 'light' ? '#ffffff' : '#121212',
-            paper: mode === 'light' ? '#f8f9fa' : '#1e1e1e',
-          },
-        },
-        components: {
-          MuiCard: {
-            styleOverrides: {
-              root: {
-                backgroundColor: mode === 'light' ? '#ffffff' : '#1e1e1e',
-              },
-            },
-          },
-        },
-      }),
-    [mode]
-  );
+  const [mode, setMode] = useState('dark');
 
   const toggleTheme = () => {
-    setMode((prevMode) => (prevMode === 'light' ? 'dark' : 'light'));
+    setMode((prevMode) => (prevMode === 'dark' ? 'light' : 'dark'));
   };
 
   return (
     <ThemeContext.Provider value={{ mode, toggleTheme }}>
-      <MuiThemeProvider theme={theme}>{children}</MuiThemeProvider>
+      {children}
     </ThemeContext.Provider>
   );
+};
+
+export const useTheme = () => {
+  const context = useContext(ThemeContext);
+  if (!context) {
+    throw new Error('useTheme must be used within a ThemeProvider');
+  }
+  return context;
 }; 

@@ -7,6 +7,7 @@ import LazyImage from '../shared/LazyImage';
 import ExpertiseModal from './ExpertiseModal';
 import DataService from '../../services/DataService';
 import TopMenu from '../shared/TopMenu';
+import { useData } from '../../context/DataContext';
 
 const skillLogos = [
   { name: 'Altium', logo: '/assets/img/skills/altium.png', url: 'https://www.altium.com/', category: 'Hardware', description: 'Professional PCB Design Software' },
@@ -33,14 +34,22 @@ const HeroSection = () => {
   const [selectedExpertise, setSelectedExpertise] = useState(null);
   const [certifications, setCertifications] = useState([]);
   const [selectedCategory, setSelectedCategory] = useState('All');
+  const { data } = useData();
 
   useEffect(() => {
     const fetchCertifications = async () => {
-      const data = await DataService.getCertifications();
-      setCertifications(data);
+      try {
+        if (data?.certifications) {
+          setCertifications(data.certifications);
+        }
+      } catch (error) {
+        console.error('Error fetching certifications:', error);
+        setCertifications([]);
+      }
     };
+
     fetchCertifications();
-  }, []);
+  }, [data]);
 
   const socialLinks = [
     { icon: <GitHub />, url: 'https://github.com/findasifrahman', label: 'GitHub' },
@@ -265,7 +274,6 @@ const HeroSection = () => {
                         fontSize: { xs: '1.5rem', md: '2.5rem' },
                         fontWeight: 'bold',
                         mb: 2,
-                        color: '#fff',
                         lineHeight: 1.2,
                         background: 'linear-gradient(45deg,rgb(249, 144, 223), #cc3322)',
                         backgroundClip: 'text',
