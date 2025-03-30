@@ -7,7 +7,7 @@
 /coverage
 
 #virtual environment
-/venv
+/pvenv
 
 # production
 /build
