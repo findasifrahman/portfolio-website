@@ -61,7 +61,7 @@ const HeroSection = () => {
     {
       icon: <Code />,
       title: 'Software Development',
-      description: 'Full-stack development with modern technologies',
+      description: 'Backend & Infrastructure, Frontend & Product Engineering',
       projects: [
         {
           title: 'GPS Tracker',
@@ -110,8 +110,8 @@ const HeroSection = () => {
     },
     {
       icon: <Science />,
-      title: 'AI/ML',
-      description: 'Machine learning and artificial intelligence applications',
+      title: 'AI & Intelligent Systems',
+      description: 'LLM-based agents (GPT, LLaMA) and AI-driven applications',
       projects: [
         {
           title: 'AI Agent',
@@ -181,7 +181,7 @@ const HeroSection = () => {
       />
       
       {/* Hero Section */}
-      <Box sx={{ py: 8 }}>
+      <Box sx={{ py: 4 }}>
         <Container maxWidth="lg">
           <Box
             sx={{
@@ -207,7 +207,7 @@ const HeroSection = () => {
                   background: 'linear-gradient(45deg, #90caf9, #64b5f6)',
                   backgroundClip: 'text',
                   WebkitBackgroundClip: 'text',
-                  color: 'transparent',
+                  color: 'rendant',
                   fontFamily: '"Playfair Display", serif',
                   lineHeight: 1.2
                 }}
@@ -215,50 +215,59 @@ const HeroSection = () => {
                 MD ASIFUR RAHMAN
               </Typography>
 
-
-              <Box sx={{ display: 'flex', gap: 2, flexWrap: 'wrap' }}>
-                <Button
-                  variant="contained"
-                  size="large"
-                  onClick={() => scrollToSection('projects')}
-                  sx={{
-                    backgroundColor: '#90caf9',
-                    color: '#000',
-                    px: 4,
-                    py: 1.5,
-                    borderRadius: 2,
-                    fontWeight: 'bold',
-                    '&:hover': {
-                      backgroundColor: '#64b5f6',
-                      transform: 'translateY(-2px)'
-                    }
-                  }}
-                >
-                  View Projects
-                </Button>
-                <Button
-                  variant="outlined"
-                  size="large"
-                  onClick={() => scrollToSection('about')}
-                  sx={{
-                    borderColor: '#90caf9',
-                    color: '#90caf9',
-                    px: 4,
-                    py: 1.5,
-                    borderRadius: 2,
-                    '&:hover': {
-                      borderColor: '#64b5f6',
-                      backgroundColor: 'rgba(144, 202, 249, 0.1)',
-                      transform: 'translateY(-2px)'
-                    }
-                  }}
-                >
-                  About Me
-                </Button>
-              </Box>
+            {/* Expertise Areas */}
+            <Box sx={{ mt: 8 }}>
+              <Grid container spacing={3}>
+                {expertiseAreas.map((area, index) => (
+                  <Grid item xs={12} md={4} key={index}>
+                    <motion.div
+                      initial={{ opacity: 0, y: 20 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      transition={{ duration: 0.5, delay: index * 0.2 }}
+                    >
+                      <Paper
+                        onClick={() => setSelectedExpertise(area)}
+                        sx={{
+                          p: 3,
+                          height: '100%',
+                          minHeight: '200px',
+                          background: 'rgba(255, 255, 255, 0.05)',
+                          backdropFilter: 'blur(10px)',
+                          borderRadius: 2,
+                          transition: 'all 0.3s',
+                          cursor: 'pointer',
+                          '&:hover': {
+                            transform: 'translateY(-5px)',
+                            background: 'rgba(255, 255, 255, 0.1)'
+                          }
+                        }}
+                      >
+                        <Box sx={{ display: 'flex', alignItems: 'center', mb: 2 }}>
+                          <Box
+                            sx={{
+                              p: 1,
+                              borderRadius: 1,
+                              backgroundColor: 'rgba(255, 255, 255, 0.1)',
+                              mr: 2,
+                              color: '#90caf9'
+                            }}
+                          >
+                            {area.icon}
+                          </Box>
+                          <Typography variant="h6" sx={{ color: '#cc8800' }}>{area.title}</Typography>
+                        </Box>
+                        <Typography variant="body2" sx={{ color: '#90caf9' }}>
+                          {area.description}
+                        </Typography>
+                      </Paper>
+                    </motion.div>
+                  </Grid>
+                ))}
+              </Grid>
+            </Box>
             </motion.div>
 
-            <Grid container spacing={4} alignItems="center" sx={{ mt: 8 }}>
+            <Grid container spacing={1} alignItems="center" sx={{ mt: 8 }}>
               <Grid item xs={12} md={6}>
                 <ScrollReveal>
                   <motion.div
@@ -271,9 +280,9 @@ const HeroSection = () => {
                       component="h2"
                       gutterBottom
                       sx={{
-                        fontSize: { xs: '1.5rem', md: '2.5rem' },
+                        fontSize: { xs: '1.5rem', md: '2rem' },
                         fontWeight: 'bold',
-                        mb: 2,
+                        mb: 1.5,
                         lineHeight: 1.2,
                         background: 'linear-gradient(45deg,rgb(249, 144, 223), #cc3322)',
                         backgroundClip: 'text',
@@ -523,7 +532,7 @@ const HeroSection = () => {
                 <Typography variant="h6" sx={{ color: '#fff', fontFamily: '"Playfair Display", serif' }}>YEARS OF EXPERIENCE</Typography>
               </Box>
               <Box sx={{ textAlign: 'center' }}>
-                <Typography variant="h3" sx={{ color: '#90caf9', fontWeight: 'bold' }}>+50</Typography>
+                <Typography variant="h3" sx={{ color: '#90caf9', fontWeight: 'bold' }}>+150</Typography>
                 <Typography variant="h6" sx={{ color: '#fff', fontFamily: '"Playfair Display", serif' }}>PROJECTS COMPLETED</Typography>
               </Box>
               <Box sx={{ textAlign: 'center' }}>
@@ -532,56 +541,7 @@ const HeroSection = () => {
               </Box>
             </Box>
 
-            {/* Expertise Areas */}
-            <Box sx={{ mt: 8 }}>
-              <Grid container spacing={3}>
-                {expertiseAreas.map((area, index) => (
-                  <Grid item xs={12} md={4} key={index}>
-                    <motion.div
-                      initial={{ opacity: 0, y: 20 }}
-                      animate={{ opacity: 1, y: 0 }}
-                      transition={{ duration: 0.5, delay: index * 0.2 }}
-                    >
-                      <Paper
-                        onClick={() => setSelectedExpertise(area)}
-                        sx={{
-                          p: 3,
-                          height: '100%',
-                          minHeight: '200px',
-                          background: 'rgba(255, 255, 255, 0.05)',
-                          backdropFilter: 'blur(10px)',
-                          borderRadius: 2,
-                          transition: 'all 0.3s',
-                          cursor: 'pointer',
-                          '&:hover': {
-                            transform: 'translateY(-5px)',
-                            background: 'rgba(255, 255, 255, 0.1)'
-                          }
-                        }}
-                      >
-                        <Box sx={{ display: 'flex', alignItems: 'center', mb: 2 }}>
-                          <Box
-                            sx={{
-                              p: 1,
-                              borderRadius: 1,
-                              backgroundColor: 'rgba(255, 255, 255, 0.1)',
-                              mr: 2,
-                              color: '#90caf9'
-                            }}
-                          >
-                            {area.icon}
-                          </Box>
-                          <Typography variant="h6" sx={{ color: '#fff' }}>{area.title}</Typography>
-                        </Box>
-                        <Typography variant="body2" sx={{ color: '#90caf9' }}>
-                          {area.description}
-                        </Typography>
-                      </Paper>
-                    </motion.div>
-                  </Grid>
-                ))}
-              </Grid>
-            </Box>
+
           </Box>
         </Container>
       </Box>

@@ -71,17 +71,17 @@ const specialProjects = [
     link: "#"
   },
   {
-    title: "The e-procurement system saas ERP",
-    details: "The e-procurement system is a single web portal from where and through which supplier is able to perform their procurement related activities using a dedicated secured web-based dashboard.Purpose of this project is to provide tendering and procurement in an automated way. This will help the decision makers to control correct procurement, storage, distribution and to take appropriate decisions for the most optimal use of procurement in a single program",
+    title: "Production AI agent for whatsapp lead generation",
+    details: "AI-driven education advisory platform (multi-intake, multi-degree, scholarship logic): Developed an AI agent integrated with WhatsApp to assist prospective students in selecting suitable degree programs based on their preferences and qualifications. The agent utilizes natural language processing to understand user queries and provides personalized recommendations, including scholarship opportunities. Built using Node.js, Python, and OpenAI's GPT-4 API, the system is deployed on VPS",
     images: [
-      "/assets/img/products/erp/saas_3.jpg",
-      "/assets/img/products/erp/saas_2.png",
+      "/assets/img/products/ai_agent_malishaedu/1.png",
+      "/assets/img/products/ai_agent_malishaedu/2.png",
       "/assets/img/products/erp/saas_1.png"
     ],
     link: "#"
   },
   {
-    title: "IOT and security system Hardware and software",
+    title: "VPN Router & PCB with OpenWRT and mt76xx from mediatek",
     details: "Wemey is a WiFi based home automation device to control light, fan, AC in smart home system with smartphone. I developed the hardware and software for the device using ESP32 microcontroller and ESP_IDF. I also developed the mobile app for the device using JAVA. I also developed the PCB using kicad. Our IOT productline also includes fingerprint recognition system. I developed the fingerprint recognition software . I also developed the PCB using kicad. Our IOT productline also includes fingerprint recognition system and NODE-RED based automation system.",
     images: [
       "/assets/img/products/iot/iot_1.jpg",

@@ -19,9 +19,13 @@ const BioSection = () => {
 
   const bioText = `Passionate Software Developer | PCB designer | Innovator | Problem Solver
 
-I'm Md Asifur Rahman, a seasoned software developer, Advanced pcb designer with a rich background in both software and hardware development, specializing in cutting-edge technologies and innovative solutions. With over a decade of experience, I've consistently demonstrated my ability to tackle complex challenges and deliver robust, high-quality products.
+I am a multidisciplinary engineer who builds real systems, not demos.
 
-Technical Expertise: My journey began with a degree in Electronics and Communication, where I delved into the fascinating world of robotics. Since then, I've honed my skills in a variety of technologies, including FPGA, PCB design with Altium. Kicad, EasyEDA, STM32 MCUs,ESP32, Rockchip, VIVADO. Embedded Linux, RTOS Node.js, Angular, React Native, PostgreSQL, SQL Server, AWS EC2, and C programming.
+My work sits at the intersection of AI, embedded systems, RF hardware, distributed infrastructure, and production software. I design products end-to-end — from PCB and firmware, to backend architecture, to AI agents, to deployment and operations.
+
+Over the years, I’ve delivered systems used in telecom, education, surveillance, networking, virtualization, and cross-border digital services, often under real-world constraints: limited budget, unreliable infrastructure, tight timelines, and high reliability requirements.
+
+I’m especially strong at turning complex, messy problems into working systems..
 
 🛠️ Innovative Projects: As the founder of Intricate Lab, I've spearheaded numerous groundbreaking projects, from designing and developing a pure sine wave inverter to creating software solutions for fingerprint attendance systems, task-based event scheduling for the Bangladesh Navy, and kiosk-based exam management systems.
 
