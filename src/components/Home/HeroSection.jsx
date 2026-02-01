@@ -282,7 +282,7 @@ const HeroSection = () => {
                         fontFamily: '"Playfair Display", serif',
                       }}
                     >
-                      Entrepreneur | Software | PCB | AI/ML | Embedded
+                      AI Systems Engineer | Embedded & RF Engineer | Full-Stack Architect | Technical Founder
                     </Typography>
                     <Typography
                       variant="h4"
