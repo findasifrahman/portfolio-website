@@ -61,7 +61,7 @@ const HeroSection = () => {
     {
       icon: <Code />,
       title: 'Software Development',
-      description: 'Backend & Infrastructure, Frontend & Product Engineering',
+      description: 'Backend & Infrastructure, Frontend & Product Engineering ',
       projects: [
         {
           title: 'GPS Tracker',
@@ -76,11 +76,12 @@ const HeroSection = () => {
           skills: 'Keil uVision · Printed Circuit Board (PCB) Design · Wireless Mesh · Raspberry Pi · Radio Frequency (RF) · Angular · STM32 · Node.js'
         },
         {
-          title: 'SAAS ERP for Food Supply Industry',
-          image: '/assets/img/products/saasERP.png',
-          redirectUrl: 'https://proud-ocean-0ed2e3100.5.azurestaticapps.net',
-          skills: 'Python · Angular · Microsoft Azure · Azure Functions · Flask · SQL · postgres · CI/CD'
-        }
+          title: 'eSIM Service Platform',
+          image: '/assets/img/products/esim1.png',
+          redirectUrl: 'https://www.globlinksolution.com/',
+          skills: 'Web Development · Node.js · React · eSIM · eUICC · LwM2M · IoT',
+          details: 'A sophisticated eSIM sales platform with real provider APIs integration, enabling seamless eSIM management and deployment with payment gateway integration.'
+        },
       ]
     },
     {
@@ -113,13 +114,6 @@ const HeroSection = () => {
       title: 'AI & Intelligent Systems',
       description: 'LLM-based agents (GPT, LLaMA) and AI-driven applications',
       projects: [
-        {
-          title: 'AI Agent',
-          image: '/assets/img/products/AI-scrap-agent.png',
-          redirectUrl: 'https://github.com/findasifrahman/llm-scraper',
-          skills: 'Multi-agent Systems · Machine Learning · Artificial Intelligence (AI) · Web Scraping · RAG, Langchain',
-          details: 'A sophisticated web scraping system leveraging CrewAI and multiple AI agents working in collaboration. Features include:\n• Intelligent content extraction using OpenAI\n• Multi-agent orchestration for complex tasks\n• RAG implementation for context-aware scraping\n• Performance monitoring and optimization\n• Automated data processing pipeline'
-        },
         {
           title: 'Langchain RAG Firestore Chat',
           image: '/assets/img/products/langchaint-rag.png',

@@ -50,7 +50,7 @@ const specialProjects = [
       "/assets/img/products/zynq/zynq_2.png",
       "/assets/img/products/zynq/zynq_3.png"
     ],
-    link: "#"
+    link: "https://github.com/findasifrahman/zynq_soc_board_v1"
   },
   {
     title: "CML Microsystems baseband RF radio design",
@@ -68,17 +68,16 @@ const specialProjects = [
       "/assets/img/products/stm32/stm32_1.png",
       "/assets/img/products/stm32/stm32_2.png"
     ],
-    link: "#"
+    link: "https://wa.me/+8801700802868"
   },
   {
     title: "Production AI agent for whatsapp lead generation",
     details: "AI-driven education advisory platform (multi-intake, multi-degree, scholarship logic): Developed an AI agent integrated with WhatsApp to assist prospective students in selecting suitable degree programs based on their preferences and qualifications. The agent utilizes natural language processing to understand user queries and provides personalized recommendations, including scholarship opportunities. Built using Node.js, Python, and OpenAI's GPT-4 API, the system is deployed on VPS",
     images: [
       "/assets/img/products/ai_agent_malishaedu/1.png",
-      "/assets/img/products/ai_agent_malishaedu/2.png",
-      "/assets/img/products/erp/saas_1.png"
+      "/assets/img/products/ai_agent_malishaedu/2.png"
     ],
-    link: "#"
+    link: "https://wa.me/+8801700802868"
   },
   {
     title: "VPN Router & PCB with OpenWRT and mt76xx from mediatek",
@@ -88,7 +87,7 @@ const specialProjects = [
       "/assets/img/products/iot/iot_2.png",
       "/assets/img/products/iot/iot_3.jpg"
     ],
-    link: "#"
+    link: "https://github.com/findasifrahman/mt76--"
   }
 ];
 

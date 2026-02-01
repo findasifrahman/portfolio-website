@@ -255,12 +255,12 @@
   ],
   "projects": [
     {
-      "title": "CrewAI scrap multiagent system",
-      "details": "CrewAI is a multi-agent system that uses web scraping to extract data from a website. It is a web scraping agent that uses crewai framework to scrape data from a website. It is a web scraping agent that uses crewai framework to scrape data from a website. It is a web scraping agent that uses crewai framework to scrape data from a website.",
+      "title": "eSIM Service Platform",
+      "details": "A sophisticated eSIM sales platform with real provider APIs integration, enabling seamless eSIM management and deployment with payment gateway integration.",
       "time": "Jun 2024 - Present",
       "company": "Intricate Lab ",
-      "skills": "Multi-agent Systems · Machine Learning · Artificial Intelligence (AI) · Web Scraping · RAG, Langchain",
-      "project_link": "https://github.com/findasifrahman/crewai"
+      "skills": "Web Development · Node.js · React · eSIM · eUICC · LwM2M · IoT",
+      "project_link": "https://www.globlinksolution.com/package-detail/PEB708QBF"
     },
     {
       "title": "langchain-RAG-firestore chat application",
