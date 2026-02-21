@@ -35,9 +35,6 @@ module.exports = {
           process: 'process/browser.js',
           Buffer: ['buffer', 'Buffer'],
         }),
-        new webpack.DefinePlugin({
-          'process.env': JSON.stringify(process.env),
-        }),
       ];
 
       return webpackConfig;
