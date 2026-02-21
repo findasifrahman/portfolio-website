@@ -94,7 +94,6 @@ const specialProjects = [
 const ProjectDetails = ({ details }) => {
   const [isExpanded, setIsExpanded] = useState(false);
   const theme = useTheme();
-  const isMobile = useMediaQuery(theme.breakpoints.down('md'));
 
   const firstFiftyWords = details.split(' ').slice(0, 50).join(' ') + '...';
   const shouldShowReadMore = details.split(' ').length > 50;

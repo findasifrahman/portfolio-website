@@ -161,16 +161,6 @@ const ProjectCard = ({ project }) => {
   );
 };
 
-const sampleProjects = [
-  {
-    title: "CrewAI Scraping Agent",
-    details: "An advanced web scraping system using CrewAI framework that orchestrates multiple AI agents for intelligent data extraction. Features include multi-agent collaboration, RAG implementation, automated data processing, and performance monitoring.",
-    skills: "Multi-agent Systems · Machine Learning · AI · Web Scraping · RAG",
-    time: "2024",
-    project_link: "https://github.com/findasifrahman/llm-scraper"
-  }
-];
-
 const ProjectsSection = () => {
   const { data, loading, error } = useData();
 

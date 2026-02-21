@@ -174,7 +174,7 @@ export const splitIntoChunks = (text) => {
       chunk = chunk.trim();
       
       // Remove any bullet points or numbering at the start
-      chunk = chunk.replace(/^[\d\s•\-\*]+/, '');
+      chunk = chunk.replace(/^[\d\s•\-*]+/, '');
       
       // Normalize spaces
       chunk = chunk.replace(/\s+/g, ' ');
@@ -186,7 +186,7 @@ export const splitIntoChunks = (text) => {
       if (chunk.length < 50) return false;
       
       // Filter out chunks that are just numbers or special characters
-      if (/^[\d\s\-\*]+$/.test(chunk)) return false;
+      if (/^[\d\s\-*]+$/.test(chunk)) return false;
       
       // Filter out chunks that are just repeated characters
       if (/(.)\1{10,}/.test(chunk)) return false;
